@@ -1,0 +1,134 @@
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\PresentationLayer.dll.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\PresentationLayer.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\PresentationLayer.pdb
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csc.exe
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csc.exe.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csc.rsp
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csi.exe
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csi.exe.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\csi.rsp
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.AppContext.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Console.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.IO.Compression.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.IO.Pipes.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.AccessControl.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Claims.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Threading.Thread.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.ValueTuple.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\vbc.exe
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\vbc.exe.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\vbc.rsp
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\BLL.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\DAL.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\EntityFramework.dll
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\BLL.pdb
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\DAL.pdb
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\DAL.dll.config
+c:\users\anthony\source\repos\PresentationLayer\PresentationLayer\bin\EntityFramework.xml
+c:\Users\Anthony\source\repos\PresentationLayer\PresentationLayer\bin\EntityFramework.SqlServer.dll
+c:\Users\Anthony\source\repos\PresentationLayer\PresentationLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\PresentationLayer.dll.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\PresentationLayer.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\PresentationLayer.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csc.exe
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csc.exe.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csc.rsp
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csi.exe
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csi.exe.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\csi.rsp
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Console.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\vbc.exe
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\vbc.exe.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\vbc.rsp
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\BLL.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\EntityFramework.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\DAL.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\BLL.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\EntityFramework.xml
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\DAL.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\bin\DAL.dll.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\obj\Debug\PresentationLayer.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\PresentationLayer\obj\Debug\PresentationLayer.pdb

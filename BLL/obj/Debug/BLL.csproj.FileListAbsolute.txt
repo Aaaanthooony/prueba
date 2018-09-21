@@ -1,0 +1,24 @@
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\BLL.dll
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\BLL.pdb
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\DAL.dll
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\EntityFramework.dll
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\DAL.pdb
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\DAL.dll.config
+c:\users\anthony\source\repos\PresentationLayer\BLL\bin\Debug\EntityFramework.xml
+c:\users\anthony\source\repos\PresentationLayer\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+c:\users\anthony\source\repos\PresentationLayer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+c:\users\anthony\source\repos\PresentationLayer\BLL\obj\Debug\BLL.csproj.CopyComplete
+c:\users\anthony\source\repos\PresentationLayer\BLL\obj\Debug\BLL.dll
+c:\users\anthony\source\repos\PresentationLayer\BLL\obj\Debug\BLL.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\BLL.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\BLL.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\DAL.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\DAL.pdb
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\DAL.dll.config
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\obj\Debug\BLL.dll
+C:\Users\Anthony\Documents\Lenguajes para apps comerciales\asp practice\BLL\obj\Debug\BLL.pdb
