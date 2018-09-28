@@ -12,6 +12,7 @@ namespace BLL
     {
         Data data = new Data();
 
+
         public void addProduct(String name, String price, String stock)
         {
             data.addProduct(name, price, stock);
@@ -19,6 +20,8 @@ namespace BLL
 
         public DataTable getProducts()
         {
+
+            String papito;
             return convertProductsListToDataTable( data.getProducts());
         }
 
